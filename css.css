@@ -1,9 +1,6 @@
 * {
     box-sizing: border-box;
   }
-body{
-    background-color: white;
-}
 h1 {
     margin-bottom: 15px;
     text-align: center;
@@ -20,7 +17,6 @@ section {
     position: relative;
     background-color: gray;
     border: 3.5px solid black;
-    /*width: 95%;*/
     margin-left:  10px;
     margin-right: 10px;
     margin-bottom: 10px;
@@ -64,9 +60,8 @@ section {
     background-color: gray;
     font-family: Helvetica;
     color: black;
-    margin: 40px 0px 0px 0px;
-    height: 150px;
-    overflow: auto;
+    margin: 40px 0px 0px 5px;
+    height: 180px;
   }
   
   /********** Large devices only **********/
